@@ -2,6 +2,9 @@
 
 Route Explorer is a command-line C++ program for exploring routes through country and state/province adjacency graphs. Enter a country/state or its representative city, and the program reports both the route with the fewest borders and the route with the shortest total great-circle distance.
 
+## Screenshot
+<img width="1472" height="663" alt="image" src="https://github.com/user-attachments/assets/e21cd286-6006-4cd2-8681-07059bf04bdb" />
+
 ## Features
 
 - Accepts either a location name or its representative city name as input.
